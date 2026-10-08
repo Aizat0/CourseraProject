@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "title": "Python",
+    "description": "cool",
+    "level": [
+      "beginner"
+    ],
+    "price": 5000,
+    "duration_weeks": 5,
+    "is_active": true,
+    "status": "plus",
+    "created_at": "2026-10-08T09:58:46.073277",
+    "updated_at": "2026-10-08T09:58:46.073299",
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "title": "JavaScript",
+    "description": "Курсы по JavaScript с самыми полезными библиотеками",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "price": 35000,
+    "duration_weeks": 50,
+    "is_active": true,
+    "status": "plus",
+    "created_at": "2026-10-08T10:43:14.254169",
+    "updated_at": "2026-10-08T10:43:14.254180",
+    "category_id": 1
+  },
+  {
+    "id": 3,
+    "title": "C++",
+    "description": "Курсы по C++ с самыми полезными библиотеками",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "price": 55000,
+    "duration_weeks": 70,
+    "is_active": true,
+    "status": "plus",
+    "created_at": "2026-10-08T10:45:06.710005",
+    "updated_at": "2026-10-08T10:45:06.710016",
+    "category_id": 1
+  },
+  {
+    "id": 4,
+    "title": "UX/UI Дизайн",
+    "description": "Самые интересные курсы и уроки по дизайну",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "price": 45000,
+    "duration_weeks": 30,
+    "is_active": true,
+    "status": "plus",
+    "created_at": "2026-10-08T10:45:53.941209",
+    "updated_at": "2026-10-08T10:45:53.941218",
+    "category_id": 1
+  },
+  {
+    "id": 5,
+    "title": "Full-Stack",
+    "description": "Научим делать полноценный сайт",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "price": 65000,
+    "duration_weeks": 60,
+    "is_active": true,
+    "status": "plus",
+    "created_at": "2026-10-08T10:47:00.374853",
+    "updated_at": "2026-10-08T10:47:00.374858",
+    "category_id": 1
+  }
+]
